@@ -49,8 +49,8 @@ This project is deeply personal to me. My grandmother recently passed away from 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mendsalbert/beat-cancer.git
-   cd beat-cancer
+   git clone https://github.com/Killercavin/cancer-beat.git
+   cd cancer-beat
    ```
 
 2. **Install Dependencies**
